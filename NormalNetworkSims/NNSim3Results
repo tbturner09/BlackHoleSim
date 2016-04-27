@@ -1,0 +1,7 @@
+start time = 2.613535, stopTime = 999.990519
+sent packets	 105698
+received packets 103954
+packets recived and dropped by blackhole node = 44
+Net packets recived by non-malious nodes = 103910
+PDR = 98.308388
+Average Throughput[kbps] = 443.40	StartTime=2.61	StopTime = 999.99
