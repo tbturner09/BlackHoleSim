@@ -1,0 +1,353 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.29)  26 APR 2016 23:03
+entering extended mode
+**./Templeta.tex
+(Templeta.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.
+cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+)
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
+sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cfg
+"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
+def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
+cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+)
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\comment.st
+y"
+\CommentStream=\write3
+ Excluding comment 'comment') (Templeta.aux)
+\openout1 = `Templeta.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+-- Lines per column: 48 (approximate, difference = 7.56502pt).
+
+("C:\Users\Blake\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen128
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen129
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks17
+) [1{C:/Users/Blake/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+[2] <images/Scenario1.png, id=9, 161.10187pt x 132.495pt>
+File: images/Scenario1.png Graphic file (type png)
+
+<use images/Scenario1.png>
+Package pdftex.def Info: images/Scenario1.png used on input line 100.
+(pdftex.def)             Requested size: 161.10147pt x 132.49466pt.
+ <images/Scen2.png, id=10, 163.3603pt x 133.24782pt>
+File: images/Scen2.png Graphic file (type png)
+
+<use images/Scen2.png>
+Package pdftex.def Info: images/Scen2.png used on input line 105.
+(pdftex.def)             Requested size: 163.3599pt x 133.24748pt.
+ <images/Scen3.png, id=11, 164.86594pt x 138.5175pt>
+File: images/Scen3.png Graphic file (type png)
+
+<use images/Scen3.png>
+Package pdftex.def Info: images/Scen3.png used on input line 110.
+(pdftex.def)             Requested size: 164.86551pt x 138.51715pt.
+ <images/NNScen1.png, id=12, 186.6975pt x 202.50656pt>
+File: images/NNScen1.png Graphic file (type png)
+
+<use images/NNScen1.png>
+Package pdftex.def Info: images/NNScen1.png used on input line 129.
+(pdftex.def)             Requested size: 186.69704pt x 202.50604pt.
+
+<images/NNScen2.png, id=13, 183.68625pt x 201.00093pt>
+File: images/NNScen2.png Graphic file (type png)
+
+<use images/NNScen2.png>
+Package pdftex.def Info: images/NNScen2.png used on input line 132.
+(pdftex.def)             Requested size: 183.68578pt x 201.00043pt.
+ <images/NNScen3.png, id=14, 183.68625pt x 198.7425pt>
+File: images/NNScen3.png Graphic file (type png)
+
+<use images/NNScen3.png>
+Package pdftex.def Info: images/NNScen3.png used on input line 135.
+(pdftex.def)             Requested size: 183.68578pt x 198.742pt.
+ <images/BHScen1.png, id=15, 185.19188pt x 198.7425pt>
+File: images/BHScen1.png Graphic file (type png)
+
+<use images/BHScen1.png>
+Package pdftex.def Info: images/BHScen1.png used on input line 139.
+(pdftex.def)             Requested size: 185.1914pt x 198.742pt.
+
+<images/BHScen2.png, id=16, 181.42781pt x 199.49532pt>
+File: images/BHScen2.png Graphic file (type png)
+
+<use images/BHScen2.png>
+Package pdftex.def Info: images/BHScen2.png used on input line 142.
+(pdftex.def)             Requested size: 181.42737pt x 199.49481pt.
+
+<images/BHScen3.png, id=17, 183.68625pt x 200.24812pt>
+File: images/BHScen3.png Graphic file (type png)
+
+<use images/BHScen3.png>
+Package pdftex.def Info: images/BHScen3.png used on input line 145.
+(pdftex.def)             Requested size: 183.68578pt x 200.24763pt.
+
+<images/BH5Scen2.png, id=18, 183.68625pt x 202.50656pt>
+File: images/BH5Scen2.png Graphic file (type png)
+
+<use images/BH5Scen2.png>
+Package pdftex.def Info: images/BH5Scen2.png used on input line 148.
+(pdftex.def)             Requested size: 183.68578pt x 202.50604pt.
+
+<images/BH5Scen3.png, id=19, 185.19188pt x 199.49532pt>
+File: images/BH5Scen3.png Graphic file (type png)
+
+<use images/BH5Scen3.png>
+Package pdftex.def Info: images/BH5Scen3.png used on input line 151.
+(pdftex.def)             Requested size: 185.1914pt x 199.49481pt.
+ [3 <./images/Scenario1.png> <./images/Scen2.png> <./images/Scen3.png>]
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./images/NNScen1.png> <./images/NNScen2.png> <./images/NNScen3.png> <./ima
+ges/BHScen1.png> <./images/BHScen2.png> <./images/BHScen3.png>]
+<images/PDChart.png, id=27, 261.22594pt x 161.85469pt>
+File: images/PDChart.png Graphic file (type png)
+
+<use images/PDChart.png>
+Package pdftex.def Info: images/PDChart.png used on input line 158.
+(pdftex.def)             Requested size: 261.22528pt x 161.85428pt.
+
+Overfull \hbox (17.24654pt too wide) in paragraph at lines 158--161
+[][]
+ []
+
+<images/PDRChart.png, id=28, 237.88875pt x 171.64125pt>
+File: images/PDRChart.png Graphic file (type png)
+
+<use images/PDRChart.png>
+Package pdftex.def Info: images/PDRChart.png used on input line 162.
+(pdftex.def)             Requested size: 237.88815pt x 171.64081pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--165
+[][]
+ []
+
+
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+
+<images/TPChart.png, id=29, 240.14719pt x 209.28188pt>
+File: images/TPChart.png Graphic file (type png)
+
+<use images/TPChart.png>
+Package pdftex.def Info: images/TPChart.png used on input line 166.
+(pdftex.def)             Requested size: 240.14658pt x 209.28134pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+[][]
+ []
+
+[5 <./images/BH5Scen2.png> <./images/BH5Scen3.png> <./images/PDChart.png> <./im
+ages/PDRChart.png> <./images/TPChart.png>] [6]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[7
+
+] (Templeta.aux) ) 
+Here is how much of TeX's memory you used:
+ 2122 strings out of 493634
+ 35305 string characters out of 3135239
+ 98662 words of memory out of 3000000
+ 5519 multiletter control sequences out of 15000+200000
+ 30911 words of font info for 58 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 26i,8n,19p,877b,240s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Blake/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/d
+vips/fontname/8r.enc}<C:/Users/Blake/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmr8a.pfb><C:/Users/Blake/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on Templeta.pdf (7 pages, 127850 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
